@@ -7,3 +7,4 @@ A simple notes app built with HTML, CSS, and JavaScript.
 
 ## How to Use
 - Open `index.html` in a browser to use the app.
+-  https://deepanshi-02.github.io/notes-app/ visit here
